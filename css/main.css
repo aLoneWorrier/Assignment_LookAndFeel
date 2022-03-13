@@ -4,6 +4,7 @@ Sample css code
 /* Set height to 100% for body and html to enable the background image to cover the whole page: */
 body,
 html {
+    background-image: url('../img/bg.jpg');
     height: 100%;
 }
 
@@ -17,12 +18,12 @@ html {
 
 /* Position text in the middle */
 .middle {
-  position: absolute;
-  color: beige;
-  top: 70%;
-  left: 39%;
-  text-align: center;
-  font-size: 25px;
+    position: absolute;
+    color: beige;
+    top: 70%;
+    left: 39%;
+    text-align: center;
+    font-size: 25px;
 }
 
 /*Set circle in unordered list*/
